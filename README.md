@@ -5,7 +5,7 @@
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=canzova&label=Profile%20views&color=0e75b6&style=flat" alt="canzova" />
+  <img src="https://komarev.com/ghpvc/?username=Ishi2001&label=Profile%20views&color=0e75b6&style=flat" alt="Ishi2001" />
 </p>
 
 ---
